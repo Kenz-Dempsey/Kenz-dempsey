@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript, React & Python
 - 💞️ I’m looking to collaborate on front-end projects!
 - 📫 How to reach me: <br>
-My portfolio: kenz.dev <br>
+My portfolio: https://www.kenz.dev <br>
 Instagram: @kenzngton <br>
 LinkedIn: https://www.linkedin.com/in/kenz-dempsey-465658209/
 
