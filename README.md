@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenz-dempsey
 - 👀 I am a freelance web developer specializing in React and WordPress
-- 🔥 I’m 19 years old, and live in Vancouver, Canada
+- 🔥 I’m 20 years old, and live in Vancouver, Canada
 - 💞️ I’m looking to collaborate on front-end projects!
 - 📫 How to reach me: <br>
 My portfolio: https://www.kenz.dev <br>
