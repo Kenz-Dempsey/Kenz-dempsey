@@ -6,4 +6,4 @@
 My portfolio: https://www.kenz.dev <br>
 Instagram: @kenzngton <br>
 LinkedIn: https://www.linkedin.com/in/kenz-dempsey-465658209/ <br>
-Email: kenzdempsey@gmail.com <br>
+Email: kenz@kenz.dev <br>
